@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蕾子的博客</title>
-    <link>http://example.org/</link>
+    <link>http://arleen233.github.io/</link>
     <description>Recent content on 蕾子的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ah-Hans</language>
     <lastBuildDate>Wed, 10 Jun 2020 15:33:10 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://arleen233.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第二篇博客</title>
-      <link>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://arleen233.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 10 Jun 2020 15:33:10 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://arleen233.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description> 这是我的第二篇博客 我创建这一片博客的步骤是： * 切换到主目录下 * 运行命令hugo new posts/blog-name.md * 编辑blog-name.md文件 * 运行hugo -D得到新的public目录 * 进入public目录，执行下列操作 1. git add . 2. git commit -m update 3. git push -f 强制上传 最后附上男神年轻时候的照片 </description>
     </item>
     
     <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>http://arleen233.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Wed, 10 Jun 2020 15:04:35 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>http://arleen233.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>大家好 我的博客开通了，希望今后能写出好文章给大家看</description>
     </item>
     
